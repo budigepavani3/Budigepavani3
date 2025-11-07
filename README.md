@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Jagadeswararao</h1>
-<h3 align="center">🔍 Passionate Python Developer & Data Analytics Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Pavani</h1>
+<h3 align="center">🔍 Passionate Python and Data Analytics </h3>
 
 ---
 
