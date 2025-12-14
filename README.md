@@ -1,5 +1,3 @@
-# 🧠 Python Data Analytics GitHub Profile
-
 <h1 align="center">Hi 👋, I'm Budiga Pavani</h1>
 <h3 align="center">🔍 Passionate Python Developer & Data Analytics Enthusiast</h3>
 
