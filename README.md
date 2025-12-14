@@ -10,7 +10,7 @@
 - 📊 I enjoy transforming raw data into valuable insights
 - 🧠 Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**
 - 💡 Open to collaborating on **data analytics and machine learning projects**
-- 📫 Reach me at **budigapavani@example.com**
+- 📫 Reach me at **budigapavani0122@gmail.com**
 - 🌍 Portfolio: [your-portfolio-link](https://your-portfolio-link.com)
 
 ---
