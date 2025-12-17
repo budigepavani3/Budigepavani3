@@ -87,14 +87,6 @@ Actively seeking <b>entry-level Data Analyst roles</b> in consulting and analyti
 
 ---
 
-<h2 align="center" style="color:#58A6FF;">📈 Power BI Dashboards</h2>
-
-<ul style="color:#C9D1D9;">
-  <li>📈 KPIs: Total Sales, Profit, Category-wise & Region-wise Analysis</li>
-  <li>🧩 Slicers, filters, and drill-down functionality</li>
-</ul>
----
-
 <h2 align="center" style="color:#58A6FF;">🏆 Achievements</h2>
 
 <ul style="color:#C9D1D9;">
