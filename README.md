@@ -61,7 +61,7 @@ Actively seeking <b>entry-level Data Analyst roles</b> in consulting and analyti
     identify behavioral trends and patterns.
   </p>
   <p><b>Tools:</b> Python, Pandas, NumPy, Matplotlib, Seaborn</p>
-  <a href="git clone https://github.com/your-username/mental-health-social-media-analysis.git" target="_blank">
+  <a href=" https://github.com/your-username/mental-health-social-media-analysis.git" target="_blank">
     🔗 View GitHub Repository
   </a>
 </div>
