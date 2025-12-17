@@ -61,8 +61,10 @@ Actively seeking <b>entry-level Data Analyst roles</b> in consulting and analyti
     identify behavioral trends and patterns.
   </p>
   <p><b>Tools:</b> Python, Pandas, NumPy, Matplotlib, Seaborn</p>
-  <a href=" https://github.com/your-username/mental-health-social-media-analysis.git" target="_blank">
-    🔗 View GitHub Repository
+  <a href="https://github.com/budigepavani3/mental-health-social-media-analysis" target="_blank">
+  🔗 <b>View Project Repository</b>
+</a>
+
   </a>
 </div>
 
@@ -75,8 +77,11 @@ Actively seeking <b>entry-level Data Analyst roles</b> in consulting and analyti
     Insights support data-driven business decisions.
   </p>
   <p><b>Tools:</b> Python, Pandas, Matplotlib, Seaborn</p>
-  <a href="https://github.com/budigapavani/superstore-data-analysis" target="_blank">
-    🔗 View GitHub Repository
+<a href="https://github.com/budigepavani3/Sales-Data-Analysis-Sample-Superstore-.git" target="_blank">
+  🔗 <b>View Project Repository</b>
+</a>
+
+
   </a>
 </div>
 
@@ -85,15 +90,9 @@ Actively seeking <b>entry-level Data Analyst roles</b> in consulting and analyti
 <h2 align="center" style="color:#58A6FF;">📈 Power BI Dashboards</h2>
 
 <ul style="color:#C9D1D9;">
-  <li>📊 Interactive Superstore Sales Dashboard</li>
   <li>📈 KPIs: Total Sales, Profit, Category-wise & Region-wise Analysis</li>
   <li>🧩 Slicers, filters, and drill-down functionality</li>
 </ul>
-
-<p style="color:#8B949E;" align="center">
-(Power BI dashboard screenshots can be added here)
-</p>
-
 ---
 
 <h2 align="center" style="color:#58A6FF;">🏆 Achievements</h2>
