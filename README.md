@@ -85,6 +85,21 @@ Actively seeking <b>entry-level Data Analyst roles</b> in consulting and analyti
   </a>
 </div>
 
+<!-- PROJECT CARD 3 -->
+<div style="border:1px solid #30363D; border-radius:12px; padding:16px; margin-top:16px;">
+  <h3>🦠 COVID-19 Data Analysis & Dashboard</h3>
+  <p style="color:#C9D1D9;">
+    Performed an end-to-end analysis of COVID-19 pandemic data to understand
+    confirmed, recovered, and death case trends over time.
+    Applied time-series analysis and built interactive dashboards to present
+    public health insights clearly.
+  </p>
+  <p><b>Tools:</b> Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI</p>
+  <a href="https://github.com/budigepavani3/covid19-analysis" target="_blank">
+    🔗 <b>View Project Repository</b>
+  </a>
+</div>
+
 ---
 
 <h2 align="center" style="color:#58A6FF;">🏆 Achievements</h2>
