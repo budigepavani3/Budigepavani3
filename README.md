@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420"/>
+  <img src="https://miro.medium.com/0*TMvhLMMOy0NHzNIy.gif" width="360"/>
 </p>
 
 ---
