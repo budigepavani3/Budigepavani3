@@ -109,19 +109,7 @@ Actively seeking <b>entry-level Data Analyst roles</b> in consulting and analyti
   <li>🎤 Seminar – Enabling Smart Technologies (Sensors)</li>
 </ul>
 
----
 
-<h2 align="center" style="color:#58A6FF;">📈 GitHub Stats</h2>
-
-<p align="center">
-
-[Pavani's GitHub stats](https://github-readme-stats.vercel.app/api?username=budigepavani3&show_icons=true&theme=github_dark&hide_border=true)
-
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=budigepavani3&theme=github-dark&hide_border=true)
-
-</p>
-
----
 
 <h2 align="center" style="color:#58A6FF;">🌐 Connect With Me</h2>
 
