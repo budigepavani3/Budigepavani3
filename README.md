@@ -50,10 +50,10 @@ in analytics-driven organizations.
 
 <h3 align="center" style="color:#C9D1D9;">📈 Data Visualization & BI Tools</h3>
 <p align="center">
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="60" title="Power BI"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/250px-New_Power_BI_Logo.svg.png" width="60" title="Power BI"/>
   <img src="https://img.icons8.com/color/96/tableau-software.png" width="60" title="Tableau"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" title="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="60" title="Seaborn"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="60" title="Seaborn"/>
   <img src="https://img.icons8.com/color/96/ms-excel.png" width="60" title="Microsoft Excel"/>
 </p>
 
