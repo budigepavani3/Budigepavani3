@@ -92,17 +92,12 @@ correlation analysis, and visual storytelling. Built dashboards to communicate i
 </p>
 <p><b>Tools:</b> Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI</p>
 
-<br/><br/>
-
 <h3>📊 Superstore Sales Data Analysis <a href="https://github.com/budigepavani3/Sales-Data-Analysis-Sample-Superstore-.git">🔗 View Repository</a> </h3>
 <p style="color:#C9D1D9;">
 Performed exploratory analysis on retail sales data to identify profit drivers,
 loss-making segments, and regional trends for business decision-making.
 </p>
-<p><b>Tools:</b> Python, Pandas, Matplotlib, Seaborn</p>
-
-
-<br/><br/>
+<p><b>Tools:</b> Python, Pandas, Matplotlib, Seaborn, Power BI</p>
 
 <h3>🦠 COVID-19 Data Analysis & Dashboard <a href="https://github.com/budigepavani3/-Covid19-Analysis">🔗 View Repository</a> </h3>
 <p style="color:#C9D1D9;">
