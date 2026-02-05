@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center" style="color:#58A6FF;">Hi 👋, I'm Budiga Pavani</h1>
-<h2 align="center" style="color:#C9D1D9;">📊 Data Analyst | Python • SQL • Power BI • Tableau</h2>
+<h2 align="center" style="color:#C9D1D9;">📊 Data Analyst | Python • SQL • Power BI • Tableau • Excel </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
