@@ -85,7 +85,7 @@ in analytics-driven organizations.
 
 <h2 align="center" style="color:#58A6FF;">🚀 Featured Projects</h2>
 
-<h3>🧠 Mental Health & Social Media Analysis</h3> <a href="https://github.com/budigepavani3/Mental-Health-Data-Analysis">🔗 View Repository</a>
+<h3>🧠 Mental Health & Social Media Analysis <a href="https://github.com/budigepavani3/Mental-Health-Data-Analysis">🔗 View Repository</a> </h3>
 <p style="color:#C9D1D9;">
 Analyzed relationships between social media usage and mental health indicators using EDA,
 correlation analysis, and visual storytelling. Built dashboards to communicate insights effectively.
@@ -94,7 +94,7 @@ correlation analysis, and visual storytelling. Built dashboards to communicate i
 
 <br/><br/>
 
-<h3>📊 Superstore Sales Data Analysis</h3> <a href="https://github.com/budigepavani3/Sales-Data-Analysis-Sample-Superstore-.git">🔗 View Repository</a>
+<h3>📊 Superstore Sales Data Analysis <a href="https://github.com/budigepavani3/Sales-Data-Analysis-Sample-Superstore-.git">🔗 View Repository</a> </h3>
 <p style="color:#C9D1D9;">
 Performed exploratory analysis on retail sales data to identify profit drivers,
 loss-making segments, and regional trends for business decision-making.
@@ -104,7 +104,7 @@ loss-making segments, and regional trends for business decision-making.
 
 <br/><br/>
 
-<h3>🦠 COVID-19 Data Analysis & Dashboard</h3> <a href="https://github.com/budigepavani3/-Covid19-Analysis">🔗 View Repository</a>
+<h3>🦠 COVID-19 Data Analysis & Dashboard <a href="https://github.com/budigepavani3/-Covid19-Analysis">🔗 View Repository</a> </h3>
 <p style="color:#C9D1D9;">
 Conducted time-series analysis on global COVID-19 data and built interactive
 dashboards using <b>Power BI</b> to present public health insights clearly.
