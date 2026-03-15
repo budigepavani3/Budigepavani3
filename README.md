@@ -1,143 +1,206 @@
 <!-- ===================== HEADER ===================== -->
 
-<h1 align="center" style="color:#58A6FF;">Hi 👋, I'm Budiga Pavani</h1>
-<h2 align="center" style="color:#C9D1D9;">📊 Data Analyst | Python • SQL • Power BI • Tableau • Excel </h2>
+<h1 align="center">Hi 👋, I'm Budiga Pavani</h1>
+<h3 align="center">📊 Data Analyst | Python • SQL • Power BI • Tableau • Excel</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-    color=58A6FF&
-    size=26&
-    center=true&
-    vCenter=true&
-    width=750&
-    lines=Entry-Level+Data+Analyst;
-           Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;
-           Exploratory+Data+Analysis+%26+Dashboards;
-           Analytics+%7C+Consulting+Ready+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=700&lines=Entry+Level+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Exploratory+Data+Analysis;Dashboard+Development;Data+Storytelling+%26+Business+Insights"/>
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/0*TMvhLMMOy0NHzNIy.gif" width="360"/>
+<img src="https://miro.medium.com/0*TMvhLMMOy0NHzNIy.gif" width="320"/>
 </p>
 
-<hr/>
+---
 
-<!-- ===================== SUMMARY ===================== -->
+# 👩‍💻 Professional Summary
 
-<h2 align="center" style="color:#58A6FF;">👩‍💻 Professional Summary</h2>
+Analytical and detail-oriented **Data Analyst** with hands-on experience transforming raw datasets into **actionable business insights**.
 
-<p align="center" style="color:#C9D1D9;">
-Analytical and detail-oriented <b>Data Analyst</b> with hands-on experience in transforming
-raw datasets into <b>actionable business insights</b>. Proficient in <b>Python, SQL, Power BI, and Tableau</b>,
-with strong expertise in <b>data cleaning, exploratory data analysis (EDA), trend analysis,
-and interactive dashboard reporting</b>. Actively seeking <b>entry-level Data Analyst roles</b>
-in analytics-driven organizations.
+Skilled in:
+
+- Data Cleaning & Transformation  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Dashboard Development  
+- Business Intelligence Reporting  
+
+Proficient with **Python, SQL, Power BI, Tableau, and Excel** to build analytics solutions and interactive dashboards.
+
+---
+
+# 🧰 Technical Skills
+
+### 📊 Data Analysis
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 </p>
 
-<hr/>
+### 📈 Visualization & BI Tools
+<p>
+<img src="https://img.icons8.com/color/96/tableau-software.png" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50"/>
+<img src="https://img.icons8.com/color/96/ms-excel.png" width="50"/>
+</p>
 
-<!-- ===================== SKILLS ===================== -->
+### 🛠 Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+</p>
 
-<h2 align="center" style="color:#58A6FF;">🧰 Technical Skills</h2>
+---
 
-<h3 align="center" style="color:#C9D1D9;">📊 Data Analysis & Programming</h3>
+# 🚀 Featured Projects
+
+### 🧠 Global Suicide Rates Data Analysis  
+🔗 https://github.com/budigepavani3/Global-Suicide-Rates-Data-Analysis  
+
+Analysis of global suicide data to identify patterns across **countries, genders, and age groups**, supported by interactive **Tableau dashboards** and visual storytelling.
+
+**Key Highlights**
+
+- Performed **data cleaning and transformation** on multi-country suicide dataset
+- Conducted **Exploratory Data Analysis (EDA)** to detect trends and anomalies
+- Analyzed **country-wise suicide rates** to identify high-risk regions
+- Compared **male vs female suicide patterns**
+- Identified **high-risk age groups** through demographic analysis
+- Built **interactive Tableau dashboards** for visual storytelling
+
+**Tools:** Python, Pandas, Tableau, Power BI, Excel
+
+---
+
+### 🧠 Mental Health & Social Media Data Analysis  
+🔗 https://github.com/budigepavani3/Mental-Health-Data-Analysis  
+
+Data analysis project exploring the relationship between **social media usage, lifestyle habits, and mental health indicators**.
+
+**Key Highlights**
+
+- Cleaned and prepared behavioral dataset for analysis
+- Conducted **EDA to identify patterns in mental health indicators**
+- Analyzed correlation between **social media usage and stress levels**
+- Studied the impact of **sleep patterns on mental well-being**
+- Created insightful **data visualizations using Matplotlib and Seaborn**
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+### 📊 Retail Sales Data Analysis – Sample Superstore  
+🔗 https://github.com/budigepavani3/Sales-Data-Analysis-Sample-Superstore-  
+
+Retail business analysis project focusing on **sales performance, profitability, and regional trends** using real-world business datasets.
+
+**Key Highlights**
+
+- Cleaned and prepared retail sales dataset
+- Analyzed **sales performance across regions and product categories**
+- Identified **top-performing products and loss-making segments**
+- Evaluated **profit vs revenue relationships**
+- Built **Power BI dashboards for business performance monitoring**
+
+**Tools:** Python, Pandas, Power BI, Excel
+
+---
+
+### 🦠 COVID-19 Data Analysis & Dashboard  
+🔗 https://github.com/budigepavani3/-Covid19-Analysis  
+
+Time-series analysis of COVID-19 pandemic data to understand **infection trends, recovery patterns, and mortality rates**.
+
+**Key Highlights**
+
+- Processed and cleaned **global COVID-19 dataset**
+- Conducted **time-series analysis** to track pandemic progression
+- Compared **confirmed cases, recoveries, and deaths**
+- Identified **peak infection periods and recovery trends**
+- Developed **interactive Power BI dashboards**
+
+**Tools:** Python, Pandas, Power BI, Excel
+
+---
+
+### 🌾 Crop Production Data Analysis  
+🔗 https://github.com/budigepavani3/crop_production  
+
+Agricultural data analysis project examining **crop production trends across regions and seasons**.
+
+**Key Highlights**
+
+- Cleaned and structured agricultural dataset
+- Analyzed **crop production across different states and regions**
+- Compared **seasonal production patterns**
+- Identified **high yield crops and regional production differences**
+- Visualized insights using **Python data visualization libraries**
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="SQL / MySQL"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=budigepavani3&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=budigepavani3&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<h3 align="center" style="color:#C9D1D9;">📈 Data Visualization & BI Tools</h3>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/250px-New_Power_BI_Logo.svg.png" width="60" title="Power BI"/>
-  <img src="https://img.icons8.com/color/96/tableau-software.png" width="60" title="Tableau"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="60" title="Matplotlib"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="60" title="Seaborn"/>
-  <img src="https://img.icons8.com/color/96/ms-excel.png" width="60" title="Microsoft Excel"/>
-</p>
+---
 
-<h3 align="center" style="color:#C9D1D9;">🗄️ Databases</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" title="SQLite"/>
-</p>
+# 👩‍💻 Professional Summary
 
-<h3 align="center" style="color:#C9D1D9;">🛠️ Tools & Platforms</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" title="Jupyter Notebook"/>
-  <img src="https://img.icons8.com/color/96/google-colab.png" width="60" title="Google Colab"/>
-</p>
+Entry-level **Data Analyst** with hands-on experience analyzing real-world datasets and building interactive dashboards to support data-driven decision making.
 
-<p align="center" style="color:#C9D1D9;">
-✔ Exploratory Data Analysis (EDA) &nbsp;|&nbsp;
-✔ Data Cleaning & Transformation &nbsp;|&nbsp;
-✔ KPI & Trend Analysis &nbsp;|&nbsp;
-✔ Dashboard Design (Power BI & Tableau) &nbsp;|&nbsp;
-✔ Business Reporting & Data Storytelling
-</p>
+Experienced in **data cleaning, exploratory data analysis (EDA), statistical analysis, and business intelligence reporting**. Skilled at transforming raw data into **clear visual insights using Python, SQL, Power BI, Tableau, and Excel**.
 
-<hr/>
+Passionate about **data storytelling, problem solving, and uncovering patterns that help organizations make better strategic decisions**.
 
-<!-- ===================== PROJECTS ===================== -->
+---
 
-<h2 align="center" style="color:#58A6FF;">🚀 Featured Projects</h2>
+# 🏆 Certifications
 
-<h3>🧠 Mental Health & Social Media Analysis <a href="https://github.com/budigepavani3/Mental-Health-Data-Analysis">🔗 View Repository</a> </h3>
-<p style="color:#C9D1D9;">
-Analyzed relationships between social media usage and mental health indicators using EDA,
-correlation analysis, and visual storytelling. Built dashboards to communicate insights effectively.
-</p>
-<p><b>Tools:</b> Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI</p>
+- **Python 101 for Data Science** – Cognitive Class (IBM)  
+- **SQL and Relational Databases 101** – Cognitive Class (IBM)  
+- **Python for Data Science** – IBM  
+- **Python Programming** – MSDE Skill India  
+- **Tata – GenAI Powered Data Analytics Job Simulation** – Forage  
+- **Deloitte Australia – Data Analytics Job Simulation** – Forage  
 
-<h3>📊 Superstore Sales Data Analysis <a href="https://github.com/budigepavani3/Sales-Data-Analysis-Sample-Superstore-.git">🔗 View Repository</a> </h3>
-<p style="color:#C9D1D9;">
-Performed exploratory analysis on retail sales data to identify profit drivers,
-loss-making segments, and regional trends for business decision-making.
-</p>
-<p><b>Tools:</b> Python, Pandas, Matplotlib, Seaborn, Power BI</p>
+**Key Skills Gained**
 
-<h3>🦠 COVID-19 Data Analysis & Dashboard <a href="https://github.com/budigepavani3/-Covid19-Analysis">🔗 View Repository</a> </h3>
-<p style="color:#C9D1D9;">
-Conducted time-series analysis on global COVID-19 data and built interactive
-dashboards using <b>Power BI</b> to present public health insights clearly.
-</p>
-<p><b>Tools:</b> Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI</p>
-<hr/>
+- Python for Data Analysis  
+- SQL & Relational Databases  
+- Data Modeling  
+- Data Visualization  
+- Business Data Analytics
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
+---
 
-<h2 align="center" style="color:#58A6FF;">🏆 Certifications & Achievements</h2>
-
-<ul style="color:#C9D1D9;">
-  <li>Python (Basic) Certification – HackerRank</li>
-  <li>AI Workshop Certification (College Organized)</li>
-  <li>Seminar Speaker – Enabling Smart Technologies (Sensors)</li>
-  <li>Hackathon Participant (College-Level)</li>
-</ul>
-
-<hr/>
-
-<!-- ===================== CONTACT ===================== -->
-
-<h2 align="center" style="color:#58A6FF;">🌐 Connect With Me</h2>
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/pavani-budiga">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="mailto:budigapavani0122@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/budigepavani3">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  </a>
+
+<a href="https://linkedin.com/in/pavani-budiga">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:budigapavani0122@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/budigepavani3">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center" style="color:#8B949E;">
-“Transforming data into meaningful business insights through analytics and visualization.”
-</p>
 
-⭐ <i>If you like my work, feel free to follow and star my repositories!</i>
+⭐ *Transforming data into meaningful business insights through analytics and visualization.*
