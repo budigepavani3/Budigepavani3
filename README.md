@@ -141,6 +141,22 @@ Agricultural data analysis project examining **crop production trends across reg
 - Visualized insights using **Python data visualization libraries**
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+---
+
+### 🎬 Netflix Content Strategy Analysis  
+🔗 https://github.com/budigepavani3/Netflix-Data-Analysis  
+
+Exploratory Data Analysis (EDA) of Netflix’s global library to identify content trends, genre popularity, and production shifts.
+
+**Key Highlights**
+- Processed **8,000+ titles** to analyze the shift from Movies to TV Shows.
+- Identified **top content-producing countries** and regional genre preferences.
+- Analyzed **audience demographics** through content rating distributions.
+- Visualized **year-over-year content growth** and release patterns.
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Tableau
+
 ---
 
 # 📊 GitHub Stats
