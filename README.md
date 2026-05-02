@@ -145,8 +145,8 @@ Agricultural data analysis project examining **crop production trends across reg
 ---
 
 ### 🎬 Netflix Content Strategy Analysis  
-🔗 https://github.com/budigepavani3/Netflix-Data-Analysis  
-
+🔗 [https://github.com/budigepavani3/Netflix-Data-Analysis  
+](https://github.com/budigepavani3/Netfilx-data-analysis)
 Exploratory Data Analysis (EDA) of Netflix’s global library to identify content trends, genre popularity, and production shifts.
 
 **Key Highlights**
